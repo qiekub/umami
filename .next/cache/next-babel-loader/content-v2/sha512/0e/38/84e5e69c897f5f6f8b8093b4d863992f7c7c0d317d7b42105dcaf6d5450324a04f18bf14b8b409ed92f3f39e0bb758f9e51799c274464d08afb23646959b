@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { useEffect } from 'react';\nimport { useRouter } from 'next/router';\nexport default function DefaultPage() {\n  var router = useRouter();\n  useEffect(function () {\n    router.push('/dashboard');\n  }, []);\n  return null;\n}","map":null,"metadata":{},"sourceType":"module"}

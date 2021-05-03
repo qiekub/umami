@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[28],{iD3m:function(n,_,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/settings",function(){return w("npB8")}])}},[["iD3m",0,2,6,8,17,1,3,4,5,7,9,10,16]]]);
